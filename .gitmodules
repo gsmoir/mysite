@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/gsmoir/gsmoir.github.io.git
+	branch = master

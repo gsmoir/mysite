@@ -7,13 +7,23 @@ Hi, I am Gourashyam Moirangthem. I am a B.Tech with **distinction** in Computer 
 
 As a campus recruit in 2014, I worked for 3 years in WIPRO technologies as enterprise platform engineer, specialized in Java. I was fortunate enough to be recognized as **Best Campus Recruit in PES excellence Awards 2016-17**, and **rated Excellent** continuously in all the performance ratings.
 
-Since 2017 and running, I have been engaging with freelancing and exploring start-up ventures to bring IT solutions at grass-root level in the small state of Manipur, India.
+From 2017-2020, I have been engaging with freelancing and exploring start-up ventures to bring IT solutions at grass-root level in the small state of Manipur, India.
 
-I am well experienced in development, enhancement, debugging and testing enterprise software in AGILE environment. And well versed in communicating and collaborating with team members and clients.
+Since Nov 2020 and running, I have been working as a Research Engineer at Indian Institute of Information Technology, Manipur for an NLP project funded by DST, Govt. of India. 
+
+I am well experienced in research, development, enhancement, debugging and testing enterprise software in AGILE environment. And well versed in communicating and collaborating with team members and clients.
 
 I am a keen and a fast learner of emerging technologies. I love to explore new ideas and solution capabilities with the magic called Computer programming.
 
 ## SOME NOTABLE PROJECTS
+
+* ##### Multilingual Wordnet of 5 major languages of Manipur (R&D NLP project, funded by DST, Govt. of India)
+  *	Tenure: IIIT Manipur, November 2020 to present
+  * As the team lead of 4 members, handled all computer and software related works including training the team.
+  *	Developed for the first time, a usable Meetei-Mayek keyboard interface, and written a paper on it.
+  *	Successfully delivered mining, sorting and frequency analysis of 10 Million Meetei-Mayek words and converted into Unicode compliant texts for further NLP purposes.
+  *	Developed and maintained the full stack website for the project, handling a big database of linguistic data of multiple languages which are interconnected.
+
 * ##### HP Unity – Platform Management Layers</h3>
   * Tenure: WIPRO (March 2016 to August 2017)
   * Client: HPE

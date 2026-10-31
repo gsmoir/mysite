@@ -3,7 +3,7 @@ title = "ABOUT ME"
 slug = "about"
 +++
 
-Hi, I am Gourashyam Moirangthem. I am a B.Tech with **distinction** in Computer Science & Engineering. I have around 6 years of experience in the field of Software Engineering.
+About Me - Gourashyam Moirangthem (Sam). I am a B.Tech with **distinction** in Computer Science & Engineering. I have around 6 years of experience in the field of Software Engineering.
 
 As a campus recruit in 2014, I worked for 3 years in WIPRO technologies as enterprise platform engineer, specialized in Java. I was fortunate enough to be recognized as **Best Campus Recruit in PES excellence Awards 2016-17**, and **rated Excellent** continuously in all the performance ratings.
 
